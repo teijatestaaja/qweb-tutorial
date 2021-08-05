@@ -3,19 +3,25 @@
 Documentation on learning how to use [QWeb](https://github.com/qentinelqi/qweb) library.
 See the [QWeb tutorial](https://github.com/qentinelqi/qweb_workshop) for exercises and [keyword documentation](https://qentinelqi.github.io/qweb/QWeb.html).
 
-## Interacting with browser
+The tutorial covers x of the current 158 keywords in QWeb library.
 
-Material covers keywords: *Open Browser, GoTo, OpenWindow, SwitchWindow, CloseWindow, SetConfig, MaximizeWindow, CloseBrowser, CloseAllBrowsers*.
+## 1. Interacting with browser
+
+Material covers 9 keywords: *Open Browser, GoTo, OpenWindow, SwitchWindow, CloseWindow, SetConfig, MaximizeWindow, CloseBrowser, CloseAllBrowsers*.
 
 My solution for [exercise 1](mysolutions/1_test.robot).
 
-## Basic interactions
+## 2. Basic interactions
 
-Material covers keywords: *ClickText, ClickItem, ClickElement, TypeText, TypeSecret, Dropdown, ClickCheckbox, VerifyText*.
+Material covers 7 keywords: *ClickText, ClickItem, ClickElement, TypeText, TypeSecret, Dropdown, ClickCheckbox*.
 
 My solution for [exercise 2](mysolutions/2_test.robot).
 
-## Assertions
+## 3. Assertions
+
+Material covers 8 keywords: *VerifyText, VerifyNoText, VerifyItem, VerifyNoItem, VerifyElement, VerifyNoElement, VerifyInputStatus, VerifyCheckBoxStatus*.
+
+My solution for [exercise 3](mysolutions/3_test.robot).
 
 ## Get data
 
