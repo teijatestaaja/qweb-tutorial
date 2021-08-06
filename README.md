@@ -29,7 +29,11 @@ Material covers 3 keywords: *GetText, GetTextCount, GetInputValue*.
 
 My solution for [exercise 4](mysolutions/4_test.robot).
 
-## Advanced clicking
+## 5. Advanced clicking
+
+Material covers 3 keywords: *RightClick, ClickUntil, ClickWhile*.
+
+My solution for [exercise 5](mysolutions/5_test.robot).
 
 ## Timeouts
 
