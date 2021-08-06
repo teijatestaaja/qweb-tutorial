@@ -23,7 +23,11 @@ Material covers 8 keywords: *VerifyText, VerifyNoText, VerifyItem, VerifyNoItem,
 
 My solution for [exercise 3](mysolutions/3_test.robot).
 
-## Get data
+## 4.  Get data
+
+Material covers 3 keywords: *GetText, GetTextCount, GetInputValue*.
+
+My solution for [exercise 4](mysolutions/4_test.robot).
 
 ## Advanced clicking
 
