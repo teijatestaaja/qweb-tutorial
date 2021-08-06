@@ -2,7 +2,7 @@
 Library     QWeb
 
 *** Test Cases ***
-Basic Interactions
+Assertions
     OpenBrowser         https://qentinelqi.github.io/shop/    chrome
     VerifyText          The animal friendly clothing company
     ClickText           Scar the Lion
