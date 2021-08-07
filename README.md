@@ -47,7 +47,11 @@ No special keywords. Tips: Anchors are little hints to underlying test execution
 
 My solution for [exercise 7](mysolutions/7_test.robot).
 
-## Handling Alerts
+## 8. Handling Alerts
+
+Material covers 5 keywords: *IsAlert, GetAlertText, VerifyAlertText, TypeAlert, CloseAlert*.
+
+My solution for [exercise 8](mysolutions/8_test.robot).
 
 ## Run Blocks
 
