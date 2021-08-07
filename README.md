@@ -3,7 +3,7 @@
 Documentation on learning how to use [QWeb](https://github.com/qentinelqi/qweb) library.
 See the [QWeb tutorial](https://github.com/qentinelqi/qweb_workshop) for exercises and [keyword documentation](https://qentinelqi.github.io/qweb/QWeb.html).
 
-The tutorial covers 43 of the current 158 keywords in QWeb library.
+The tutorial covers 43 of the current 158 keywords in QWeb library (7.8.2021).
 
 ## 1. Interacting with browser
 
