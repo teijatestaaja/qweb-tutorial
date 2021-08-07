@@ -35,13 +35,17 @@ Material covers 3 keywords: *RightClick, ClickUntil, ClickWhile*.
 
 My solution for [exercise 5](mysolutions/5_test.robot).
 
-## Timeouts
+## 6. Timeouts
 
-No special keywords. Tip: Try to avoid *Sleep* keyword as much as possible.
+No special keywords. Tips: Almost all QWeb keywords have an inbuilt timeout, with default as 10 seconds. Try to avoid *Sleep* keyword as much as possible.
 
 My solution for [exercise 6](mysolutions/6_test.robot).
 
-## Anchors
+## 7. Anchors
+
+No special keywords. Tips: Anchors are little hints to underlying test execution framework on which of the duplicate elements to select. Anchor types can be either text or numbers. Textual anchors bind text to be found to another text close by, while numeric anchors are positional in that QWeb finds nth instance of the element on screen.
+
+My solution for [exercise 7](mysolutions/7_test.robot).
 
 ## Handling Alerts
 
