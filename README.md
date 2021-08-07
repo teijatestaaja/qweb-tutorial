@@ -77,7 +77,7 @@ This section covers 2 keywords: *DebugOn, DebugOff*.
 
 Tips: To exit debug mode, write *exit* to debug terminal. QWeb’s command-line interface on Windows, type *python -m QWeb --help*
 
-No exercise, just ran [the example] (mysolutions/12_debug_demo.robot).
+No exercise, just ran [the example](mysolutions/12_debug_demo.robot).
 
 ## 13. Settings / Configuration
 
