@@ -71,14 +71,14 @@ This section covers 1 keyword: *Appstate*.
 
 My solution for [exercise 11](mysolutions/11_test.robot).
 
-## Helpers: Documentation & Debugging
+## 12. Helpers: Documentation & Debugging
 
 This section covers 2 keywords: *DebugOn, DebugOff*.
 
 Tips: To exit debug mode, write *exit* to debug terminal. QWeb’s command-line interface on Windows, type *python -m QWeb --help*
 
-No exercise, just ran the example.
+No exercise, just ran [the example] (mysolutions/12_debug_demo.robot).
 
-## Settings / Configuration
+## 13. Settings / Configuration
 
-## Extending QWeb
+## 14. Extending QWeb
