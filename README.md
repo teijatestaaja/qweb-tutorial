@@ -37,6 +37,10 @@ My solution for [exercise 5](mysolutions/5_test.robot).
 
 ## Timeouts
 
+No special keywords. Tip: Try to avoid *Sleep* keyword as much as possible.
+
+My solution for [exercise 6](mysolutions/6_test.robot).
+
 ## Anchors
 
 ## Handling Alerts
