@@ -53,9 +53,17 @@ Material covers 5 keywords: *IsAlert, GetAlertText, VerifyAlertText, TypeAlert, 
 
 My solution for [exercise 8](mysolutions/8_test.robot).
 
-## Run Blocks
+## 9. Run Blocks
 
-## Table keywords
+Material covers 1 keyword: *RunBlock*.
+
+No exercise, just ran the example.
+
+## 10. Table keywords
+
+Material covers 6 keywords: *UseTable, Example table, GetTableRow, GetCellText, VerifyTable, ClickCell*.
+
+My solution for [exercise 10](mysolutions/10_test.robot).
 
 ## Appstates & Teardowns
 
