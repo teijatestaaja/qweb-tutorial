@@ -65,7 +65,11 @@ Material covers 6 keywords: *UseTable, Example table, GetTableRow, GetCellText, 
 
 My solution for [exercise 10](mysolutions/10_test.robot).
 
-## Appstates & Teardowns
+## 11. Appstates & Teardowns
+
+Material covers 1 keyword: *Appstate*.
+
+My solution for [exercise 11](mysolutions/11_test.robot).
 
 ## Helpers: Documentation & Debugging
 
