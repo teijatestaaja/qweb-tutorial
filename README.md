@@ -7,31 +7,31 @@ The tutorial covers x of the current 158 keywords in QWeb library.
 
 ## 1. Interacting with browser
 
-Material covers 9 keywords: *Open Browser, GoTo, OpenWindow, SwitchWindow, CloseWindow, SetConfig, MaximizeWindow, CloseBrowser, CloseAllBrowsers*.
+This section covers 9 keywords: *Open Browser, GoTo, OpenWindow, SwitchWindow, CloseWindow, SetConfig, MaximizeWindow, CloseBrowser, CloseAllBrowsers*.
 
 My solution for [exercise 1](mysolutions/1_test.robot).
 
 ## 2. Basic interactions
 
-Material covers 7 keywords: *ClickText, ClickItem, ClickElement, TypeText, TypeSecret, Dropdown, ClickCheckbox*.
+This section covers 7 keywords: *ClickText, ClickItem, ClickElement, TypeText, TypeSecret, Dropdown, ClickCheckbox*.
 
 My solution for [exercise 2](mysolutions/2_test.robot).
 
 ## 3. Assertions
 
-Material covers 8 keywords: *VerifyText, VerifyNoText, VerifyItem, VerifyNoItem, VerifyElement, VerifyNoElement, VerifyInputStatus, VerifyCheckBoxStatus*.
+This section covers 8 keywords: *VerifyText, VerifyNoText, VerifyItem, VerifyNoItem, VerifyElement, VerifyNoElement, VerifyInputStatus, VerifyCheckBoxStatus*.
 
 My solution for [exercise 3](mysolutions/3_test.robot).
 
 ## 4.  Get data
 
-Material covers 3 keywords: *GetText, GetTextCount, GetInputValue*.
+This section covers 3 keywords: *GetText, GetTextCount, GetInputValue*.
 
 My solution for [exercise 4](mysolutions/4_test.robot).
 
 ## 5. Advanced clicking
 
-Material covers 3 keywords: *RightClick, ClickUntil, ClickWhile*.
+This section covers 3 keywords: *RightClick, ClickUntil, ClickWhile*.
 
 My solution for [exercise 5](mysolutions/5_test.robot).
 
@@ -49,29 +49,35 @@ My solution for [exercise 7](mysolutions/7_test.robot).
 
 ## 8. Handling Alerts
 
-Material covers 5 keywords: *IsAlert, GetAlertText, VerifyAlertText, TypeAlert, CloseAlert*.
+This section covers 5 keywords: *IsAlert, GetAlertText, VerifyAlertText, TypeAlert, CloseAlert*.
 
 My solution for [exercise 8](mysolutions/8_test.robot).
 
 ## 9. Run Blocks
 
-Material covers 1 keyword: *RunBlock*.
+This section covers 1 keyword: *RunBlock*.
 
 No exercise, just ran the example.
 
 ## 10. Table keywords
 
-Material covers 6 keywords: *UseTable, Example table, GetTableRow, GetCellText, VerifyTable, ClickCell*.
+This section covers 6 keywords: *UseTable, Example table, GetTableRow, GetCellText, VerifyTable, ClickCell*.
 
 My solution for [exercise 10](mysolutions/10_test.robot).
 
 ## 11. Appstates & Teardowns
 
-Material covers 1 keyword: *Appstate*.
+This section covers 1 keyword: *Appstate*.
 
 My solution for [exercise 11](mysolutions/11_test.robot).
 
 ## Helpers: Documentation & Debugging
+
+This section covers 2 keywords: *DebugOn, DebugOff*.
+
+Tips: To exit debug mode, write *exit* to debug terminal. QWeb’s command-line interface on Windows, type *python -m QWeb --help*
+
+No exercise, just ran the example.
 
 ## Settings / Configuration
 
