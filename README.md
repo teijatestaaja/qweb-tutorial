@@ -81,8 +81,14 @@ No exercise, just ran [the example](mysolutions/12_debug_demo.robot).
 
 ## 13. Settings / Configuration
 
+Tips: SetConfig keyword can be used to change the runtime behavior of QWeb. Changes done with SetConfig will apply globally. Settings to aid debugging include SearchMode, LogScreenShot, Debug_Run, ClearKey, CheckInputValue and LineBreak.
+
+SearchMode can be used to highlight the element QWeb finds. LogScreenShot can be used to turn screenshot logging off since by default QWeb takes a screenshot on all failed keywords. Setting Debug_Run enables QWeb to automatically open debugging mode on every fail. ClearKey does not remove existing text in the input field. CheckInputValue can be used to validate that the text you tried to input is actually fully stored in the input field. LineBreak can be used to change line break that is typed into the input field.
+
 No exercise, just read through the material.
 
 ## 14. Extending QWeb
+
+Tips: There are two ways of extending keywords, either by reusing functionality provided by QWeb or creating own functionality from scratch.
 
 No exercise, just read through the material.
